@@ -14,7 +14,7 @@ Forked from https://github.com/camrbuss/crkbd-curvy-sandwich
 # License
 
 - Copyright 2021 Cam Buss
-- Copyright 2021 sungo
+- Copyright 2022 sungo
 
 Made available under the terms of the MIT license. See the included LICENSE file
 for details.
