@@ -2,8 +2,7 @@
 
 Laser cut sandwich case for the Corne keyboard
 
-![](./images/mdf_half_built.jpg)
-![](./images/mdf_with_caps.jpg)
+![](./images/cherry_plywood_top.jpg)
 
 More images are over in [the images/ directory](./images)
 
